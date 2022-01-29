@@ -3,4 +3,4 @@
 using LineCode;
 
 LineCode.Linecomputation line = new Linecomputation();
-line.Comparision();
+line.LineComparision();
